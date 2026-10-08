@@ -237,4 +237,4 @@ This repository serves as the official landing page for Air Display Connect. The
 **Get the most recent version of Air Display Connect today!**
 
 ---
-**Last updated:** 2026-10-08 17:08:27 UTC
+**Last updated:** 2026-10-08 22:47:24 UTC
